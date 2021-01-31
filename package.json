@@ -1,0 +1,27 @@
+{
+  "name": "rxjs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robbancss/RxJS-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robbancss/RxJS-Practice/issues"
+  },
+  "homepage": "https://github.com/Robbancss/RxJS-Practice#readme",
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.16.0",
+    "webpack-cli": "^4.4.0"
+  }
+}
